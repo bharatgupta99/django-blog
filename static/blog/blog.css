@@ -1,0 +1,54 @@
+.page-heading {
+    background-color: tomato;
+    color: white;
+    margin-top: 0;
+    height: 12%;
+}
+
+.page-heading > a:link {
+    color: white;
+}
+.page-heading > a:visited {
+    color: white
+}
+
+.heading {
+    float: left;
+    padding-left: 20px;
+    padding: 15px;
+}
+
+.add-button {
+    font-size: 50px;
+    padding: 15px;
+    float: right;
+}
+
+.post {
+    margin: 50px;
+}
+
+.post-title {
+    color: tomato
+}
+
+.published-date {
+    font-weight: 100;
+}
+
+.content {
+    font-size: 20px;
+}
+
+a:link {
+    color: tomato;
+}
+
+.form-container {
+    margin: 10px;
+}
+
+.edit-button {
+    color: tomato;
+    font-size: 30px;
+}
